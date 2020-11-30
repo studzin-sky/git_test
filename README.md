@@ -1,0 +1,1 @@
+This is studzin-sky's first git project!
